@@ -19,11 +19,11 @@ theme = "vex-hugo"
   [params.navbar]
     logo = "learnstatswithjamovi.com"
     [[params.navbar.menu]]
-      link = "#feature"
-      text = "about"
-    [[params.navbar.menu]]
       link = "#"
       text = "download"
+    [[params.navbar.menu]]
+      link = "#feature"
+      text = "about"
     [[params.navbar.menu]]
       link = "#data"
       text = "data files"
