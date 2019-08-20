@@ -16,9 +16,9 @@
   command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
 
 # A redirect rule with all the supported properties
-[[redirects]]
-  from = "https://learnstatswithjamovi.netlify.com/*"
-  to = "https://www.learnstatswithjamovi.com/:splat"
+#[[redirects]]
+#  from = "https://learnstatswithjamovi.netlify.com/*"
+#  to = "https://www.learnstatswithjamovi.com/:splat"
 
   # The default HTTP status code is 301, but you can define a different one.
   status = 301
