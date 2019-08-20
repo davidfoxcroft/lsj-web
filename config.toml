@@ -1,0 +1,107 @@
+baseurl = ""
+languageCode = "en"
+title = "lsj book"
+theme = "vex-hugo"
+
+[params]
+  description = "lsj book"
+
+  # Put your custom stylesheets and scripts
+  custom_stylesheets = []
+  custom_scripts = []
+
+  # Additional meta
+  [[params.meta]]
+    name = ""
+    description = ""
+
+  # Navigation bar informations
+  [params.navbar]
+    logo = "learnstatswithjamovi.com"
+    [[params.navbar.menu]]
+      link = "#feature"
+      text = "about"
+    [[params.navbar.menu]]
+      link = "#"
+      text = "download"
+    [[params.navbar.menu]]
+      link = "#data"
+      text = "data files"
+    [[params.navbar.menu]]
+      link = "#promo"
+      text = "provenance"
+   [[params.navbar.menu]]
+      link = "#getinvolved"
+      text = "help out"
+
+  [params.header]
+    title = "Open source. Great learning."
+    text = "Navarro DJ and Foxcroft DR (2019). learning statistics with jamovi: a tutorial for psychology students and other beginners. (Version 0.70).  DOI: 10.24384/hgc3-7p15" 
+    [params.header.image]
+      path = "images/bookcover_small.png"
+      alt = "Book cover"
+    [params.header.button]
+      link = "https://drive.google.com/file/d/1wSttS-IlhRDtlRNUfATYBSERQteg8jh5/view?usp=sharing"
+      text = "Download for free"
+
+ # Features
+  [params.features]
+    title = "About the book"
+    footer = "example"
+    [params.features.image]
+      path = "images/bookcover_small.png"
+      alt = "Book cover"
+    # Menu at the left of the image
+    [[params.features.left]]
+      icon = "tf-ion-ios-book-outline"
+      title = "Scope"
+      text = "learning statistics with jamovi covers the contents of an introductory statistics class, as typically taught to undergraduate psychology students."
+    [[params.features.left]]
+      icon = "tf-ion-ios-alarm-outline"
+      title = "Getting started"
+      text = "The book discusses how to get started in jamovi as well as giving an introduction to data manipulation. "
+    [[params.features.left]]
+      icon = "tf-ion-ios-cog-outline"
+      title = "Elegant Design"
+      text = "Written in latex and published as a pdf file, for great design and easy access."
+    # Menu at the right of the image
+    [[params.features.right]]
+      icon = "tf-ion-ios-pie-outline"
+      title = "Basics and Theory"
+      text = "Descriptive statistics and graphing are followed by chapters on probability theory, sampling and estimation, and null hypothesis testing. "
+    [[params.features.right]]
+      icon = "tf-ion-ios-calculator-outline"
+      title = "Statistical Analysis"
+      text = "The book covers the analysis of contingency tables, correlation, t-tests, regression, ANOVA and factor analysis. "
+    [[params.features.right]]
+      icon = "tf-ion-ios-cart-outline"
+      title = "All for free!"
+      text = "The book is open source licensed and is free to download."
+
+  [params.data]
+    title = "Data files"
+    text = "Data files to accompany the book are available [here](https://bit.ly/lsj-data), or can be accessed within jamovi via an add-on module in the jamovi library."
+    [params.data.image]
+      path = "images/bookcover_small.png"
+      alt = "Book cover"
+
+
+
+
+  [params.promo]
+    title = "Provenance"
+    text = "This book is an adaptation of DJ Navarro (2018). Learning statistics with R: A tutorial for psychology students and other beginners. (Version 0.6). https://compcogscisydney.org/learning-statistics-with-r. <br> <br> The book is released under a creative commons CC BY-SA 4.0 licence. This means that this book can be reused, remixed, retained, revised and redistributed (including commercially) as long as appropriate credit is given to the authors. If you remix, or modify the original version of this open textbook, you must redistribute all versions of this open textbook under the same license - CC BY-SA."
+    [params.promo.image]
+      path = "images/bookcover_small.png"
+      alt = "Book cover"
+
+  [params.getinvolved]
+    title = "Ways to help"
+    text = "Any statistics textbook is undoubtedly incomplete; there is just too much to cover. Ours is no exception, it's a work in progress. If you spot any mistakes, or want to suggest some improvements, then please log an issue on [github](https://github.com/davidfoxcroft/jbook/issues).  <br><br> If you would like to contribute some updates to the book, or a chapter, then please get in touch via the github link above. We'll keep all contributions in a publically available repository, linked from this page, and will incorporate new material into the book when we update to the next version. <br><br> We have made this e-book available for free, but we encourage you to make a voluntary donation of around £10 or $15 to the developers of the free and open jamovi software, to support the addition of even more features. To do this, head on over to the [jamovi web site](https://www.google.com/url?q=https%3A%2F%2Fwww.jamovi.org%2Fcontribute.html%23financial&sa=D&sntz=1&usg=AFQjCNFiuTlrgvR3RfJWwRs1u5SjuQKKGw) and make a contribution."
+    [params.getinvolved.image]
+      path = "images/bookcover_small.png"
+      alt = "Book cover"
+
+
+
+
