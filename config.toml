@@ -1,4 +1,4 @@
-baseurl = ""
+baseurl = "www.learnstatswithjamovi.com/"
 languageCode = "en"
 title = "lsj book"
 theme = "vex-hugo"
