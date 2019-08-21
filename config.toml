@@ -3,6 +3,8 @@ languageCode = "en"
 title = "lsj book"
 theme = "vex-hugo"
 
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
 [params]
   description = "lsj book"
 
@@ -35,7 +37,7 @@ theme = "vex-hugo"
       text = "help out"
 
   [params.header]
-    title = "Open source. Great learning."
+    title = "Free book. Great learning."
     text = "Navarro DJ and Foxcroft DR (2019). learning statistics with jamovi: a tutorial for psychology students and other beginners. (Version 0.70).  DOI: 10.24384/hgc3-7p15" 
     [params.header.image]
       path = "images/bookcover_small.png"
@@ -84,10 +86,7 @@ theme = "vex-hugo"
     [params.data.image]
       path = "images/bookcover_small.png"
       alt = "Book cover"
-
-
-
-
+      
   [params.promo]
     title = "Provenance"
     text = "This book is an adaptation of DJ Navarro (2018). Learning statistics with R: A tutorial for psychology students and other beginners. (Version 0.6). https://compcogscisydney.org/learning-statistics-with-r. <br> <br> The book is released under a creative commons CC BY-SA 4.0 licence. This means that this book can be reused, remixed, retained, revised and redistributed (including commercially) as long as appropriate credit is given to the authors. If you remix, or modify the original version of this open textbook, you must redistribute all versions of this open textbook under the same license - CC BY-SA."

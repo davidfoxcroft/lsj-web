@@ -225,7 +225,7 @@ a:active {
   justify-content: top;
   align-items: center; }
   .hero-area h1 {
-    font-size: 60px;
+    font-size:440x;
     font-weight: bold;
     padding-bottom: 19px;
     margin-top: 20px;
@@ -282,6 +282,7 @@ a:active {
 --*/
 .feature.section {
   padding-bottom: 50px; }
+
 
 .feature .feature-box {
   margin-bottom: 20px; }
