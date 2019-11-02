@@ -390,13 +390,13 @@ a:active {
     color: #f9a743; }
   .testimonials .testimonial-block p {
     font-family: "Droid Serif", serif;
-    font-size: 14px;
+    font-size: 30px;
     color: #777; }
   .testimonials .testimonial-block .author-details {
     margin-top: 30px; }
     .testimonials .testimonial-block .author-details img {
-      border-radius: 50%;
-      width: 50px; }
+      border-radius: 0%;
+      width: 120px; }
     .testimonials .testimonial-block .author-details h4 {
       font-weight: 700;
       font-size: 20px;

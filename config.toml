@@ -30,9 +30,12 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
       link = "#data"
       text = "data files"
     [[params.navbar.menu]]
+      link = "#testimonial"
+      text = "translations"
+    [[params.navbar.menu]]
       link = "#promo"
       text = "provenance"
-   [[params.navbar.menu]]
+    [[params.navbar.menu]]
       link = "#getinvolved"
       text = "help out"
 
@@ -86,6 +89,28 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     [params.data.image]
       path = "images/bookcover_small.png"
       alt = "Book cover"
+      
+[params.testimonials]
+    title = "Translations"
+    [[params.testimonials.blocks]]
+      text = "[English](https://www.learnstatswithjamovi.com)"
+#      name = "David Foxcroft"
+#      position = "CEO, Themefisher"
+      image = "images/versions/english.png"
+    [[params.testimonials.blocks]]
+      text = "[French](https://hal.archives-ouvertes.fr/hal-02335912)"
+#      name = "Jonathon Andrew"
+#      position = "CEO, Themefisher"
+      image = "images/versions/french.png"
+    [[params.testimonials.blocks]]
+      text = "[Japanese](https://bookdown.org/sbtseiji/lswjamoviJ/)"
+#      name = "Jonathon Andrew"
+#      position = "CEO, Themefisher"
+       image = "images/versions/japanese.png"
+#   [params.testimonials.button]
+#    link = ""
+#      text = "Grab You Product Now"
+
       
   [params.promo]
     title = "Provenance"
