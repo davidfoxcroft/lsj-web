@@ -98,7 +98,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 #      position = "CEO, Themefisher"
       image = "images/versions/english.png"
     [[params.testimonials.blocks]]
-      text = "[French](https://hal.archives-ouvertes.fr/hal-02335912)"
+      text = "[French](https://jmeunierp8.github.io/ManuelJamovi/)"
 #      name = "Jonathon Andrew"
 #      position = "CEO, Themefisher"
       image = "images/versions/french.png"
