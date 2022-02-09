@@ -41,12 +41,12 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
   [params.header]
     title = "Free book. Great learning."
-    text = "Navarro DJ and Foxcroft DR (2019). learning statistics with jamovi: a tutorial for psychology students and other beginners. (Version 0.70).  DOI: 10.24384/hgc3-7p15" 
+    text = "Navarro DJ and Foxcroft DR (2022). learning statistics with jamovi: a tutorial for psychology students and other beginners. (Version 0.75).  DOI: 10.24384/hgc3-7p15" 
     [params.header.image]
       path = "images/bookcover_small.png"
       alt = "Book cover"
     [params.header.button]
-      link = "https://drive.google.com/file/d/1awJBpfse5BpesVMRijnggTRSTygNWGl0/view?usp=sharing"
+      link = "https://drive.google.com/file/d/1AGMTMJHBEq3cJyH7UDCDUph9-EaQGvx7/view?usp=sharing"
       text = "Download for free"
 
  # Features
@@ -114,14 +114,14 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
       
   [params.promo]
     title = "Provenance"
-    text = "This book is an adaptation of DJ Navarro (2018). Learning statistics with R: A tutorial for psychology students and other beginners. (Version 0.6). https://compcogscisydney.org/learning-statistics-with-r. <br> <br> The book is released under a creative commons CC BY-SA 4.0 licence. This means that this book can be reused, remixed, retained, revised and redistributed (including commercially) as long as appropriate credit is given to the authors. If you remix, or modify the original version of this open textbook, you must redistribute all versions of this open textbook under the same license - CC BY-SA."
+    text = "This book is an adaptation of DJ Navarro (2018). Learning statistics with R: A tutorial for psychology students and other beginners. (Version 0.6). https://learningstatisticswithr.com/. <br> <br> The book is released under a creative commons CC BY-SA 4.0 licence. This means that this book can be reused, remixed, retained, revised and redistributed (including commercially) as long as appropriate credit is given to the authors. If you remix, or modify the original version of this open textbook, you must redistribute all versions of this open textbook under the same license - CC BY-SA."
     [params.promo.image]
       path = "images/bookcover_small.png"
       alt = "Book cover"
 
   [params.getinvolved]
     title = "Ways to help"
-    text = "Any statistics textbook is undoubtedly incomplete; there is just too much to cover. Ours is no exception, it's a work in progress. If you spot any mistakes, or want to suggest some improvements, then please log an issue on [github](https://github.com/davidfoxcroft/jbook/issues).  <br><br> If you would like to contribute some updates to the book, or a chapter, then please get in touch via the github link above. We'll keep all contributions in a publically available repository, linked from this page, and will incorporate new material into the book when we update to the next version. <br><br> We have made this e-book available for free, but we encourage you to make a voluntary donation of around £10 or $15 to the developers of the free and open jamovi software, to support the addition of even more features. To do this, head on over to the [jamovi web site](https://www.google.com/url?q=https%3A%2F%2Fwww.jamovi.org%2Fcontribute.html%23financial&sa=D&sntz=1&usg=AFQjCNFiuTlrgvR3RfJWwRs1u5SjuQKKGw) and make a contribution."
+    text = "Any statistics textbook is undoubtedly incomplete; there is just too much to cover. Ours is no exception, it's a work in progress. If you spot any mistakes, or want to suggest some improvements, then please log an issue on [github](https://github.com/davidfoxcroft/jbook/issues).  <br><br> If you would like to contribute some updates to the book, or a chapter, then please get in touch via the github link above. We'll keep all contributions in a publically available repository, linked from this page, and will incorporate new material into the book when we update to the next version. <br><br> We have made this e-book available for free, but we encourage you to make a voluntary donation of around £10 or $15 to the developers of the free and open jamovi software, to support the addition of even more features. To do this, head on over to the [jamovi web site](https://www.jamovi.org/contribute.html#financial) and make a contribution."
     [params.getinvolved.image]
       path = "images/bookcover_small.png"
       alt = "Book cover"
