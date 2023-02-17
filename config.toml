@@ -47,7 +47,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
       alt = "Book cover"
     [params.header.button]
       link = "https://drive.google.com/file/d/1rRTMwRGWiWWrOTJRlEA17Vo2k_49W9Vg/view?usp=sharing"
-      text = "Download for free"
+      text = "Download for free" 
 
  # Features
   [params.features]
