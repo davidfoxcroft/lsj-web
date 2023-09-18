@@ -5,8 +5,8 @@
       <div class="heading">
         <h2>{{ .title }}</h2>
       </div>
-      {{- range first 5 .blocks }}
-      <div class="col-md-4 text-center">
+      {{- range first 4 .blocks }}
+      <div class="col-md-5 text-center">
         <div class="testimonial-block">
           <p>{{ .text | markdownify }}</p>
           <div class="author-details">
