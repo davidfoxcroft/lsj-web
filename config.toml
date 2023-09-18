@@ -107,6 +107,11 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 #      name = "Jonathon Andrew"
 #      position = "CEO, Themefisher"
        image = "images/versions/japanese.png"
+    [[params.testimonials.blocks]]
+      text = "[Spanish](https://davidfoxcroft.github.io/lsj-book-es/)"
+#      name = "Jonathon Andrew"
+#      position = "CEO, Themefisher"
+      image = "images/versions/bookcover_spanish.png"
 #   [params.testimonials.button]
 #    link = ""
 #      text = "Grab You Product Now"
