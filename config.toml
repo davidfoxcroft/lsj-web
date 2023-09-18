@@ -99,11 +99,12 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
       text = "[French](https://jmeunierp8.github.io/ManuelJamovi/)"
       image = "images/versions/french.png"
     [[params.testimonials.blocks]]
-      text = "[Japanese](https://bookdown.org/sbtseiji/lswjamoviJ/)"
-      image = "images/versions/japanese.png"
-    [[params.testimonials.blocks]]
       text = "[Spanish](https://davidfoxcroft.github.io/lsj-book-es/)"
       image = "images/versions/spanish.png"
+    [[params.testimonials.blocks]]
+      text = "[Japanese](https://bookdown.org/sbtseiji/lswjamoviJ/)"
+      image = "images/versions/japanese.png"
+
 
       
   [params.promo]
