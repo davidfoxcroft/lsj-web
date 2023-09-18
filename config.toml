@@ -81,7 +81,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     [[params.features.right]]
       icon = "tf-ion-ios-cart-outline"
       title = "All for free!"
-      text = "The book is open source licensed and is free to download."
+      text = "The book is open source licensed and is free to access and/or download."
 
   [params.data]
     title = "Data files"
@@ -90,7 +90,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
       path = "images/bookcover_small.png"
       alt = "Book cover"
       
-[params.testimonials]
+  [params.testimonials]
     title = "Translations"
     [[params.testimonials.blocks]]
       text = "[English](https://www.learnstatswithjamovi.com)"
@@ -104,8 +104,6 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     [[params.testimonials.blocks]]
       text = "[Japanese](https://bookdown.org/sbtseiji/lswjamoviJ/)"
       image = "images/versions/japanese.png"
-
-
       
   [params.promo]
     title = "Provenance"
