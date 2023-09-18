@@ -20,9 +20,9 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   # Navigation bar informations
   [params.navbar]
     logo = "learnstatswithjamovi.com"
-    [[params.navbar.menu]]
-      link = "#"
-      text = "download"
+#    [[params.navbar.menu]]
+#      link = "#"
+#      text = "download"
     [[params.navbar.menu]]
       link = "#feature"
       text = "about"
@@ -94,27 +94,16 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     title = "Translations"
     [[params.testimonials.blocks]]
       text = "[English](https://www.learnstatswithjamovi.com)"
-#      name = "David Foxcroft"
-#      position = "CEO, Themefisher"
       image = "images/versions/english.png"
     [[params.testimonials.blocks]]
       text = "[French](https://jmeunierp8.github.io/ManuelJamovi/)"
-#      name = "Jonathon Andrew"
-#      position = "CEO, Themefisher"
       image = "images/versions/french.png"
     [[params.testimonials.blocks]]
       text = "[Japanese](https://bookdown.org/sbtseiji/lswjamoviJ/)"
-#      name = "Jonathon Andrew"
-#      position = "CEO, Themefisher"
-       image = "images/versions/japanese.png"
+      image = "images/versions/japanese.png"
     [[params.testimonials.blocks]]
       text = "[Spanish](https://davidfoxcroft.github.io/lsj-book-es/)"
-#      name = "Jonathon Andrew"
-#      position = "CEO, Themefisher"
-      image = "images/versions/bookcover_spanish.png"
-#   [params.testimonials.button]
-#    link = ""
-#      text = "Grab You Product Now"
+      image = "images/versions/spanish.png"
 
       
   [params.promo]
